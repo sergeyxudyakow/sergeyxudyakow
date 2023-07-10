@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 <h1>Hi 👋, I'm css.wizard</h1>
-<h3 font-weigth = "900" >I post daily content on my Instagram page css.wizard. For more than three years, I have had many opportunities to work in a wide range of web technologies, which has allowed me to accumulate a significant amount of diverse experience.</h3>
+<h3>I post daily content on my Instagram page css.wizard. For more than three years, I have had many opportunities to work in a wide range of web technologies, which has allowed me to accumulate a significant amount of diverse experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csswizard&label=Profile%20views&color=0e75b6&style=flat" alt="csswizard" /> </p>
 
