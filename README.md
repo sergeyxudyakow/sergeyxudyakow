@@ -1,9 +1,6 @@
 ![Header](./banner.png)
 <h1>Hi 👋, I'm css.wizard</h1>
 <h3>I post daily content on my Instagram page css.wizard. For more than three years, I have had many opportunities to work in a wide range of web technologies, which has allowed me to accumulate a significant amount of diverse experience.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csswizard&label=Profile%20views&color=0e75b6&style=flat" alt="csswizard" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/css.wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="css.wizard" height="30" width="40" /></a>
