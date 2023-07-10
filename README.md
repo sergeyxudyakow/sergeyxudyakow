@@ -1,4 +1,4 @@
-![Header](./https://i.ibb.co/2gXYT39/banner.png)
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm csswizard</h1>
 <h3 align="center">I post daily content on my Instagram page css.wizard</h3>
 
