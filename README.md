@@ -1,5 +1,5 @@
 ![Header](./banner.png)
-<h1>Hi 👋, I'm csswizard</h1>
+<h1>Hi 👋, I'm css.wizard</h1>
 <h3 align="center">I post daily content on my Instagram page css.wizard</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csswizard&label=Profile%20views&color=0e75b6&style=flat" alt="csswizard" /> </p>
